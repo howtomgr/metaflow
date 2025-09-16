@@ -1,0 +1,63 @@
+{
+  "category": "workflow-engines",
+  "created_date": "2025-09-15T22:48:58.179143",
+  "default_ports": [
+    80,
+    443
+  ],
+  "dependencies": [
+    "python3",
+    "python3-pip"
+  ],
+  "description": "metaflow is a free and open-source ML infrastructure. Netflix Metaflow provides framework for real-life ML projects",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/workflow-engines/metaflow",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/workflow-engines/metaflow",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.179166",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "metaflow",
+  "repository_url": "https://github.com/howtomgr/metaflow",
+  "spec_version": "2.0",
+  "subcategory": "workflow-engines",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "workflow-engines",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "metaflow Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/workflow-engines/metaflow"
+}
